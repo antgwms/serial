@@ -1,2 +1,2 @@
 # serial
-serial comms for Pi and Aduino
+serial comms for Pi and Arduino
